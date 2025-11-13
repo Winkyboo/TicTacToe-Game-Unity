@@ -14,3 +14,7 @@ This is a simple 3x3 Tic Tac Toe game project. It features a local two-player sy
 -  Automatic turn system (switches between 'X' and 'O')
 -  Win state detection
 -  Draw state detection
+
+Feel free to clone this repository to try it locally or simply download the .apk file from the repository to run it on your device.
+
+That's it, thank you!
