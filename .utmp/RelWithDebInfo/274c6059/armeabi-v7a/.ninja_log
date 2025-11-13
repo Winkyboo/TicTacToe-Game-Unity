@@ -1,0 +1,12 @@
+# ninja log v5
+58	295	7656433211419122	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	a2d92aa0c1195a3c
+298	486	7656433213351715	C:/Users/willy/OneDrive/Documents/Perkuliahan/Gamedev NLC 2025/game tic tac toe/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/274c6059/obj/armeabi-v7a/libswappywrapper.so	83966e5643bd12a3
+34	1707	7656433225458342	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	88f02782f921006d
+21	1785	7656433226281619	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	e939d03da27f89f4
+41	1795	7656433226347430	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8c503d996f5938c
+8	1820	7656433226636056	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	b58c67c32db32a72
+1	1870	7656433227149994	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ce9390978c324223
+49	1962	7656433228051424	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	9046b15d5f4960fc
+28	2123	7656433229692797	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	4d29103a5fdaa5e6
+14	2299	7656433231393069	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e60742e3ad347c8e
+2299	2410	7656433232603378	C:/Users/willy/OneDrive/Documents/Perkuliahan/Gamedev NLC 2025/game tic tac toe/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/274c6059/obj/armeabi-v7a/libgame.so	6e94962d13ebfdcd

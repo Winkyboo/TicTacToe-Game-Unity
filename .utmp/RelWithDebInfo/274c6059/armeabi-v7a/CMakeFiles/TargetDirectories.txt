@@ -1,0 +1,8 @@
+C:/Users/willy/OneDrive/Documents/Perkuliahan/Gamedev NLC 2025/game tic tac toe/.utmp/RelWithDebInfo/274c6059/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/willy/OneDrive/Documents/Perkuliahan/Gamedev NLC 2025/game tic tac toe/.utmp/RelWithDebInfo/274c6059/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/willy/OneDrive/Documents/Perkuliahan/Gamedev NLC 2025/game tic tac toe/.utmp/RelWithDebInfo/274c6059/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+C:/Users/willy/OneDrive/Documents/Perkuliahan/Gamedev NLC 2025/game tic tac toe/.utmp/RelWithDebInfo/274c6059/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/willy/OneDrive/Documents/Perkuliahan/Gamedev NLC 2025/game tic tac toe/.utmp/RelWithDebInfo/274c6059/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Users/willy/OneDrive/Documents/Perkuliahan/Gamedev NLC 2025/game tic tac toe/.utmp/RelWithDebInfo/274c6059/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/willy/OneDrive/Documents/Perkuliahan/Gamedev NLC 2025/game tic tac toe/.utmp/RelWithDebInfo/274c6059/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/willy/OneDrive/Documents/Perkuliahan/Gamedev NLC 2025/game tic tac toe/.utmp/RelWithDebInfo/274c6059/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
