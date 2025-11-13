@@ -1,10 +1,10 @@
 # Tic Tac Toe Project
 
-**Project:** 2D Tic Tac Toe 3x3 Grid
+**Project :** 2D Tic Tac Toe 3x3 Grid
 
-**Game Engine:** Unity 6000.0.44f1
+**Game Engine :** Unity 6000.0.44f1
 
-**Language:** C# (.cs)
+**Language :** C# (.cs)
 
 
 This is a simple 3x3 Tic Tac Toe game project. It features a local two-player system with win and draw detection.
